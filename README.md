@@ -1,2 +1,2 @@
 # cssprofileprac
-Welcome to the coding school
+Welcome to the coding summer school
